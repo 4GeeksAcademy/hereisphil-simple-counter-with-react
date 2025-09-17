@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+}
+main {
+    height: 100vh;
+}
+p {
+    font-size: 0.75rem;
+}
